@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.0",
+  "author": {
+    "name": "!Nerea Cassian",
+    "id": "418341963570479124"
+  },
+  "url": [
+    "www.ull.es",
+    "campusvirtual.ull.es",
+    "oam.ull.es",
+    "sede.ull.es",
+    "campushumanidades.ull.es",
+    "gestuni.ull.es",
+    "login.ull.es"
+  ],
+
+  
+  "description": {
+    "spanish": "A rich presence for the ULL university"
+  },
+  "service": "ULL",
+  "version": "0.1",
+  "logo": "https://i.imgur.com/SSwaCIT.png",
+  "thumbnail": "https://i.imgur.com/SSwaCIT.png",
+  "color": "#C600FF",
+  "tags": [],
+  "category": "other"
+}
